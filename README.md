@@ -1,9 +1,10 @@
 # Yenava Skills
 
-这里收集的是我在实际工作里持续打磨、并且已经做成结构化 Skill 的能力模块。当前这一版先聚焦两类能力：
+这里收集的是我在实际工作里持续打磨、并且已经做成结构化 Skill 的能力模块。当前这一版先聚焦三类能力：
 
 - **写书**：把技术主题组织成结构化书稿
 - **排版导出**：把 Markdown 内容转成观感稳定的 PDF
+- **小红书图文**：把主题拆成信息密度高的图文轮播，并输出 HTML/CSS 与最终图片
 
 这些 Skill 采用兼容 Agent Skills 的目录结构，适合在 Codex、Claude Code、以及其他支持 Skill 目录加载的 Agent 环境中继续维护和复用。
 
@@ -13,6 +14,7 @@
 |------|------|
 | [**technical-book-writer**](./technical-book-writer/) | 通用技术书籍创作 Skill。适合写技术书、手册、playbook、从入门到精通类长文书稿，包含结构方法论、书稿模板和 PDF 导出链路。 |
 | [**content-to-pdf**](./content-to-pdf/) | 通用内容排版导出 Skill。适合把 Markdown 文章、报告、brief、guide 等内容转换成排好版的 PDF。 |
+| [**xiaohongshu-tuwen**](./xiaohongshu-tuwen/) | 小红书图文创作 Skill。适合把科技、商业、趋势、对比、方法论等主题拆成高信息密度的轮播页，自动选择主题模板，生成导演稿、HTML/CSS 页面并渲染成最终图片。 |
 
 ## 仓库结构
 
@@ -26,7 +28,7 @@
 
 ```bash
 git clone https://github.com/yenava/yenava-skills.git
-cd yanhui-skills
+cd yenava-skills
 ```
 
 ### 2. 安装依赖
@@ -47,6 +49,7 @@ npm install
 ```bash
 cp -R technical-book-writer ~/.codex/skills/
 cp -R content-to-pdf ~/.codex/skills/
+cp -R xiaohongshu-tuwen ~/.codex/skills/
 ```
 
 如果你更喜欢软链：
@@ -54,6 +57,7 @@ cp -R content-to-pdf ~/.codex/skills/
 ```bash
 ln -s "$(pwd)/technical-book-writer" ~/.codex/skills/technical-book-writer
 ln -s "$(pwd)/content-to-pdf" ~/.codex/skills/content-to-pdf
+ln -s "$(pwd)/xiaohongshu-tuwen" ~/.codex/skills/xiaohongshu-tuwen
 ```
 
 ## 本地示例

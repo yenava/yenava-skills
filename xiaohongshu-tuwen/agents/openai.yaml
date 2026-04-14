@@ -1,0 +1,8 @@
+interface:
+  display_name: "小红书图文导演"
+  short_description: "自动选择主题模板，拆成 HTML/CSS 轮播页并渲染成成套图片"
+  brand_color: "#E85A2A"
+  default_prompt: "用 $xiaohongshu-tuwen 帮我根据内容类型自动选择主题模板和页数，生成 HTML/CSS 轮播页并渲染成整套图片。"
+
+policy:
+  allow_implicit_invocation: true
