@@ -1,0 +1,7 @@
+interface:
+  display_name: "Technical Book Writer"
+  short_description: "Write structured Chinese technical books and handbooks."
+  default_prompt: "Use $technical-book-writer to draft a structured Chinese technical book or handbook with strong editorial rhythm."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+{
+  "name": "yanhui-skills",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render:book-sample": "node technical-book-writer/scripts/export_pdf.mjs --input technical-book-writer/examples/sample-book.md --output output/pdf/technical-book-sample.pdf",
+    "render:content-sample": "node content-to-pdf/scripts/export_pdf.mjs --input content-to-pdf/examples/sample-content.md --output output/pdf/content-to-pdf-sample.pdf"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "playwright": "^1.55.0"
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Content To PDF"
+  short_description: "Convert Markdown content into polished PDF documents."
+  default_prompt: "Use $content-to-pdf to format Markdown content into a polished PDF with a cover and clean typography."
+
+policy:
+  allow_implicit_invocation: true
