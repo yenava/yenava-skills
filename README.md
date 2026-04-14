@@ -1,6 +1,4 @@
-# Yanhui Skills
-
-我自己的 Agent Skills 仓库。
+# Yenava Skills
 
 这里收集的是我在实际工作里持续打磨、并且已经做成结构化 Skill 的能力模块。当前这一版先聚焦两类能力：
 
