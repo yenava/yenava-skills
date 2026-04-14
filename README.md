@@ -18,8 +18,6 @@
 
 ## 仓库结构
 
-这个仓库参考了 [khazix-skills](https://github.com/KKKKhazix/khazix-skills) 的组织方式：
-
 - 根目录直接按能力拆成独立 skill 文件夹
 - 每个 skill 内部包含自己的 `SKILL.md`
 - 有需要时再附带 `agents/`、`assets/`、`references/`、`examples/`、`scripts/`
