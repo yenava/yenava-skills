@@ -11,12 +11,12 @@
 
 ## Skills
 
-| Skill | 说明 |
-|------|------|
-| [**technical-book-writer**](./technical-book-writer/) | 通用技术书籍创作 Skill。适合写技术书、手册、playbook、从入门到精通类长文书稿，包含结构方法论、书稿模板和 PDF 导出链路。 |
-| [**content-to-pdf**](./content-to-pdf/) | 通用内容排版导出 Skill。适合把 Markdown 文章、报告、brief、guide 等内容转换成排好版的 PDF。 |
-| [**xiaohongshu-tuwen**](./xiaohongshu-tuwen/) | 小红书图文创作 Skill。适合把科技、商业、趋势、对比、方法论等主题拆成高信息密度的轮播页，自动选择主题模板，生成导演稿、HTML/CSS 页面并渲染成最终图片。 |
-| [**longform-html-infographic**](./longform-html-infographic/) | 长信息图排版 Skill。适合把过程、研究、说明、日志或复杂内容整理成一张长图，重点优化留白、叙事节奏、标题层级、中文断行和手机端阅读体验。 |
+| Skill | 中文名 | 说明 |
+|------|--------|------|
+| [**technical-book-writer**](./technical-book-writer/) | 技术书写作 | 通用技术书籍创作 Skill。适合写技术书、手册、playbook、从入门到精通类长文书稿，包含结构方法论、书稿模板和 PDF 导出链路。 |
+| [**content-to-pdf**](./content-to-pdf/) | 内容转 PDF | 通用内容排版导出 Skill。适合把 Markdown 文章、报告、brief、guide 等内容转换成排好版的 PDF。 |
+| [**xiaohongshu-tuwen**](./xiaohongshu-tuwen/) | 小红书图文 | 小红书图文创作 Skill。适合把科技、商业、趋势、对比、方法论等主题拆成高信息密度的轮播页，自动选择主题模板，生成导演稿、HTML/CSS 页面并渲染成最终图片。 |
+| [**longform-html-infographic**](./longform-html-infographic/) | 长图信息设计 | 长信息图排版 Skill。适合把过程、研究、说明、日志或复杂内容整理成一张长图，重点优化留白、叙事节奏、标题层级、中文断行和手机端阅读体验。 |
 
 ## 仓库结构
 
