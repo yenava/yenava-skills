@@ -24,6 +24,22 @@
 - 每个 skill 内部包含自己的 `SKILL.md`
 - 有需要时再附带 `agents/`、`assets/`、`references/`、`examples/`、`scripts/`
 
+## 输出示例
+
+- 写书Skill
+<img width="946" height="1332" alt="image" src="https://github.com/user-attachments/assets/c605e232-5147-417c-aec9-c2fe42114e3b" />
+<img width="936" height="1254" alt="image" src="https://github.com/user-attachments/assets/13701fe1-9758-476e-b032-ac4fbf9ea83f" />
+<img width="926" height="1294" alt="image" src="https://github.com/user-attachments/assets/244fbb2e-b014-4f04-8beb-26de84545a9f" />
+
+
+- 小红书图文Skill
+<img width="1080" height="1440" alt="223ccc9ac196169466cc170d188c063b" src="https://github.com/user-attachments/assets/0b11f9b6-6c8f-44ee-815c-168832805fcc" />
+<img width="1080" height="1440" alt="4187f4b31761d0307eaa5200786ed873" src="https://github.com/user-attachments/assets/c3281082-ab4b-4262-b2fd-86d05a7322f8" />
+
+- 一键长图Skill
+<img width="1080" height="4120" alt="d655edbc1fadf36e4c3a26fe7c71a024" src="https://github.com/user-attachments/assets/bbd23b6c-9004-4882-85f6-5c4343b37299" />
+
+
 ## 使用方式
 
 ### 1. 克隆仓库
