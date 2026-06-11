@@ -1,0 +1,3 @@
+display_name: New Imagegen
+short_description: Default image generation replacement for Codex API-key environments.
+default_prompt: Generate or edit an image with new-imagegen, optionally using reference images, and save the decoded output locally.
